@@ -7,6 +7,6 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  maru_cat = using_pop.pop
+  maru_cat = array.pop
   
 end
