@@ -8,4 +8,5 @@ end
 
 def using_pop(array)
   maru_cat = using_pop.pop
+  -=1
 end
