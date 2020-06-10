@@ -1,1 +1,2 @@
-using_push(Array,)
+using_push(Array, String)
+using_push
